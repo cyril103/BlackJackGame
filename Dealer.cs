@@ -1,10 +1,9 @@
-using System;
 using System.Collections.Generic;
 
 
 namespace BlackJackGame
 {
-    
+
     public class Dealer
     {
         public static void GiveCards(Player player){
