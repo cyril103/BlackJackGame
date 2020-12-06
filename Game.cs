@@ -1,12 +1,11 @@
 using System;
-using System.Threading.Tasks;
 using System.Collections.Generic;
 using System.Linq;
 using System.Collections.Immutable;
 
 namespace BlackJackGame
 {
-    
+
     public class Game
     {
         private static bool endOfTtun = false;

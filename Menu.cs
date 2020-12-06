@@ -1,9 +1,8 @@
-using System;
 using System.Text;
 
 namespace BlackJackGame
 {
-    
+
     public class Menu
     {
         public static string HitOrStay { get{
